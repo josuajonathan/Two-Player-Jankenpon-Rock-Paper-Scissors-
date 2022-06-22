@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\FPClient\FPClient\bin\Debug\net5.0\FPClient.exe
+C:\Users\ACER\source\repos\FPClient\FPClient\bin\Debug\net5.0\FPClient.deps.json
+C:\Users\ACER\source\repos\FPClient\FPClient\bin\Debug\net5.0\FPClient.runtimeconfig.json
+C:\Users\ACER\source\repos\FPClient\FPClient\bin\Debug\net5.0\FPClient.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\FPClient\FPClient\bin\Debug\net5.0\FPClient.dll
+C:\Users\ACER\source\repos\FPClient\FPClient\bin\Debug\net5.0\ref\FPClient.dll
+C:\Users\ACER\source\repos\FPClient\FPClient\bin\Debug\net5.0\FPClient.pdb
+C:\Users\ACER\source\repos\FPClient\FPClient\obj\Debug\net5.0\FPClient.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\FPClient\FPClient\obj\Debug\net5.0\FPClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\FPClient\FPClient\obj\Debug\net5.0\FPClient.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\FPClient\FPClient\obj\Debug\net5.0\FPClient.AssemblyInfo.cs
+C:\Users\ACER\source\repos\FPClient\FPClient\obj\Debug\net5.0\FPClient.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\FPClient\FPClient\obj\Debug\net5.0\FPClient.dll
+C:\Users\ACER\source\repos\FPClient\FPClient\obj\Debug\net5.0\ref\FPClient.dll
+C:\Users\ACER\source\repos\FPClient\FPClient\obj\Debug\net5.0\FPClient.pdb
+C:\Users\ACER\source\repos\FPClient\FPClient\obj\Debug\net5.0\FPClient.genruntimeconfig.cache
