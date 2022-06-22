@@ -9,4 +9,4 @@ Client :
 ![Client](https://user-images.githubusercontent.com/87791029/174946598-f248c773-1bab-4103-a70a-d7625b53969d.PNG)
 
 Gameplay :
-![CS](https://user-images.githubusercontent.com/87791029/174946916-59358ca5-503c-4f85-ba35-60ac6ee4d3b2.PNG)
+![CS](https://user-images.githubusercontent.com/87791029/174947030-ac9a8659-e969-407a-b155-3cab3fd837b1.PNG)
