@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\FPServer\FPServer\bin\Debug\net5.0\FPServer.exe
+C:\Users\ACER\source\repos\FPServer\FPServer\bin\Debug\net5.0\FPServer.deps.json
+C:\Users\ACER\source\repos\FPServer\FPServer\bin\Debug\net5.0\FPServer.runtimeconfig.json
+C:\Users\ACER\source\repos\FPServer\FPServer\bin\Debug\net5.0\FPServer.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\FPServer\FPServer\bin\Debug\net5.0\FPServer.dll
+C:\Users\ACER\source\repos\FPServer\FPServer\bin\Debug\net5.0\ref\FPServer.dll
+C:\Users\ACER\source\repos\FPServer\FPServer\bin\Debug\net5.0\FPServer.pdb
+C:\Users\ACER\source\repos\FPServer\FPServer\obj\Debug\net5.0\FPServer.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\FPServer\FPServer\obj\Debug\net5.0\FPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\FPServer\FPServer\obj\Debug\net5.0\FPServer.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\FPServer\FPServer\obj\Debug\net5.0\FPServer.AssemblyInfo.cs
+C:\Users\ACER\source\repos\FPServer\FPServer\obj\Debug\net5.0\FPServer.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\FPServer\FPServer\obj\Debug\net5.0\FPServer.dll
+C:\Users\ACER\source\repos\FPServer\FPServer\obj\Debug\net5.0\ref\FPServer.dll
+C:\Users\ACER\source\repos\FPServer\FPServer\obj\Debug\net5.0\FPServer.pdb
+C:\Users\ACER\source\repos\FPServer\FPServer\obj\Debug\net5.0\FPServer.genruntimeconfig.cache
